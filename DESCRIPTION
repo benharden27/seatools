@@ -1,0 +1,10 @@
+Package: seatools
+Title: Manipulate and Create Datasets from SEA Data Streams
+Version: 0.0.0.9000
+Authors@R: person("Ben", "Harden", email = "bharden@sea.edu", role = c("aut", "cre"))
+Description: More details to come
+Depends: R (>= 3.4.3)
+License: Free
+Encoding: UTF-8
+LazyData: true
+Imports: sea
